@@ -27,7 +27,7 @@ The current prototype demonstrates that **Weather Data alone accounts for ~72% o
 
 ## 📊 Results (Prototype)
 *   **R² Score:** `0.72` (Model explains 72% of demand fluctuations).
-*   **Key Insight:** ETo (Evapotranspiration) and Solar Radiation were the strongest predictors.
+*   **Key Insight:** Solar Radiation and Soil Temp were the strongest predictors.
 
 ## 🚀 Next Steps (Operational Roadmap)
 To transition this from a study to an operational tool:
